@@ -24,11 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Custom Status", // required by Discord API, not shown in the client
-        state: "🚗 Official YugoDivas RP Bot
-🎮 Your all-in-one roleplay assistant.
-🎫 Tickets • 👮 Staff Applications • 📢 Sessions
-🔑 Early Access • 🎟️ Codes
-🌆 Supporting the YugoDivas RP community.",     // this is what people actually see
+        state: "Yugodivas",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
